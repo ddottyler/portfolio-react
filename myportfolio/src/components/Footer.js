@@ -26,7 +26,7 @@ function Footer() {
       <section className="social-media">
         <div className="social-media-wrap">
           <div className="footer-logo">
-            <Link to="/" className="social-logo">
+            <Link to="/portfolio-react" className="social-logo">
               DTPortfolio <i className="fas fa-user-astronaut" />
             </Link>
           </div>
