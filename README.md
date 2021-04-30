@@ -10,6 +10,10 @@ This project is a personal portfolio that I created to showcase some of my proje
 
 This project allowed me to improve my skills in ReactJS and was also especially helpful for me to improve in CSS.
 
+## Visiting the website
+
+This React app has been published through GitHub Pages and can be visited [here](https://ddottyler.github.io/portfolio-react/).
+
 ## How to start the project from the command line
 
 Clone this repo
